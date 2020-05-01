@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>Eas1y_Salud</RootNamespace>
+    <RootNamespace>Easy_Salud</RootNamespace>
   </PropertyGroup>
 
 </Project>
